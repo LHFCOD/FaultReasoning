@@ -1,0 +1,8 @@
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Release\FaultReasoning.csproj.ResolveComReference.cache
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\bin\Release\FaultReasoning.exe
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\bin\Release\FaultReasoning.pdb
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Release\FaultReasoning.Form1.resources
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Release\FaultReasoning.Properties.Resources.resources
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Release\FaultReasoning.csproj.GenerateResource.Cache
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Release\FaultReasoning.exe
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Release\FaultReasoning.pdb

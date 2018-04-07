@@ -1,0 +1,9 @@
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\bin\Debug\FaultReasoning.exe
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\bin\Debug\FaultReasoning.pdb
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Debug\FaultReasoning.csprojResolveAssemblyReference.cache
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Debug\FaultReasoning.csproj.ResolveComReference.cache
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Debug\FaultReasoning.Properties.Resources.resources
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Debug\FaultReasoning.csproj.GenerateResource.Cache
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Debug\FaultReasoning.exe
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Debug\FaultReasoning.pdb
+c:\users\ncepu\documents\visual studio 2015\Projects\FaultReasoning\FaultReasoning\obj\Debug\FaultReasoning.Form1.resources
